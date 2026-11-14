@@ -1,0 +1,46 @@
+PASS 44 checks
+PirateGame checks
+PASS fresh economy
+PASS full hull cannot spend repair gold
+PASS repair rounds up and restores hull
+PASS damage purchase
+PASS insufficient gold does not spend
+PASS upgrade caps
+PASS reload multiplicative scaling
+PASS negative spending rejected
+PASS scene has flow
+PASS Juice starts unimplemented/unattached
+PASS boot enters dock
+PASS dock button purchase
+PASS round screen
+PASS round 1 spawns two enemies
+PASS upgrade applied to player
+PASS physics ship moves
+PASS physics ship turns
+PASS out of range shot rejected
+PASS too-close shot rejected
+PASS valid shot fires
+PASS reload blocks duplicate shots
+PASS real projectile hits once for upgraded damage
+PASS own projectile does not hit own hull
+PASS reload recovers
+PASS real second shot sinks enemy once
+PASS one surviving enemy keeps round active
+PASS victory rewards once
+PASS victory result view
+PASS result does not repeat rewards
+PASS return clears battle
+PASS round 2 spawns three enemies
+PASS surviving hull and round 2 reward persist
+PASS persistent hull repair quote
+PASS repair after battle
+PASS round 3 spawns four enemies
+PASS defeat consolation and free hull
+PASS defeat result view
+PASS miss test fires into empty water
+PASS water miss event
+PASS normal time after repeated loops
+PASS no stale actors/projectiles after clear
+PASS autonomous enemy approaches player
+PASS autonomous enemy fires and damages player
+PASS arena bounds constrain physics ship

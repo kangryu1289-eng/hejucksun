@@ -1,0 +1,12 @@
+8 independent lesson combinations, one integrated combination, and baseline with placeholders compiled using Unity 6000.0.57f1 assemblies.
+This is compile verification; Inspector setup, visual feel, audio, and runtime integration require the lesson checklists.
+PASS 01_ShipHandling
+PASS 02_WaterWake
+PASS 03_Projectile
+PASS 04_Reload
+PASS 05_Telegraph
+PASS 06_Damage
+PASS 07_Ending
+PASS 08_Rewards
+PASS Integrated
+PASS BaselineWithPlaceholders
